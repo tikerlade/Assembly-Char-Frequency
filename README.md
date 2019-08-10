@@ -1,5 +1,5 @@
 # Computer-Architecture-Course-Work
-<i>Coursework for "Computer Architecture" course in St.-Petersburg Polytechnic University of Peter the Great</i>
+<i>Coursework for "Computer Architecture" course in Saint-Petersburg Polytechnic University of Peter the Great</i>
 <br>
 <br>
 
